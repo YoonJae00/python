@@ -1,4 +1,6 @@
+import math
 # 주석 test
+
 
 # 덧셈, 뺄쎔, 곱셈
 print(1+2)
@@ -22,3 +24,12 @@ print(c, d)
 # 제곱
 e = 5 ** 5
 print(e) # 3125
+
+
+r = 550
+q = 600
+
+# 문제
+w = math.sqrt(r*r + q*q)
+print('the answer : ')
+print( w)
