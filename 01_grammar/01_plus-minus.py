@@ -33,3 +33,7 @@ q = 600
 w = math.sqrt(r*r + q*q)
 print('the answer : ')
 print( w)
+
+# or
+
+print("the answer is ",w)
