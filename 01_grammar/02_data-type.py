@@ -36,3 +36,14 @@ def print_list(a):  # 지금부터 print_list 함수를 만들겠다는 뜻
         print(i)
 
 print_list(a_list)
+
+# if 
+a = 5
+
+if a == 5 :
+    print('5입니다')
+
+car = ['k5', 'sonata', 'e-class']
+
+if 'k5' in car :
+    print('재고 있음')
