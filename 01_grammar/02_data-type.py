@@ -52,6 +52,3 @@ if 'k5' in car :
 numbers = 1000
 
 if 1000 in numbers :
-    print(
-        a
-    )
