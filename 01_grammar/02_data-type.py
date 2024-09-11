@@ -47,3 +47,11 @@ car = ['k5', 'sonata', 'e-class']
 
 if 'k5' in car :
     print('재고 있음')
+
+
+numbers = 1000
+
+if 1000 in numbers :
+    print(
+        a
+    )
