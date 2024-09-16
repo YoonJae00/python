@@ -49,6 +49,6 @@ if 'k5' in car :
     print('재고 있음')
 
 
-numbers = 1000
+numbers = 10
 
 if 1000 in numbers :
